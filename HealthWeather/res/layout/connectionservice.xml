@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+<TextView
+        android:id="@+id/tview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Counting"
+        android:textSize="10pt" />
+    
+<TextView
+        android:id="@+id/nview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Find flu outbreak in each state"
+        android:textSize="10pt" />
+
+ <Spinner
+      android:id="@+id/spinner"
+      android:layout_width="wrap_content"
+      android:layout_height="match_parent"
+        android:background="@android:drawable/btn_dropdown"
+         android:entries="@array/country_arrays" />
+    
+</LinearLayout>
