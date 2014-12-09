@@ -5,52 +5,57 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+    <string-array name="place_type">
+        <item>hospitals</item>
+        <item>pharmacy</item>
+      
+    </string-array>
+    
     <string-array name="country_arrays">
         <item>Choose a Location</item>
-        <item>AK - Alaska</item>
-        <item>AL - Alabama</item>
-        <item>AR - Arkansas</item>
-        <item>AZ - Arizona</item>
-        <item>CA - California</item>
-        <item>CO - Colorado</item>
-        <item>CT - Connecticut</item>
-        <item>DC - District of Columbia</item>
-        <item>DE - Delaware</item>
-        <item>FL - Florida</item>
-        <item>GA - Georgia</item>
-        <item>HI - Hawaii</item>
-        <item>IA - Iowa</item>
-        <item>ID - Idaho</item>
-        <item>IL - Illinois</item>
-        <item>IN - Indiana</item>
-        <item>KS - Kansas</item>
-        <item>KY - Kentucky</item>
-        <item>LA - Louisiana</item>
-        <item>MA - Massachusetts</item>
-        <item>MD - Maryland</item>
-        <item>ME - Maine</item>
-        <item>MI - Michigan</item>
-        <item>MN - Minnesota</item>
-        <item>MO - Missouri</item>
-        <item>MS - Mississippi</item>
-        <item>MT - Montana</item>
-        <item>NC - North Carolina</item>
-        <item>ND - North Dakota</item>
-        <item>NE - Nebraska</item>
-        <item>NH - New Hampshire</item>
-        <item>NJ - New Jersey</item>
-        <item>NM - New Mexico</item>
-        <item>NV - Nevada</item>
-        <item>NY - New York</item>
-        <item>OH - Ohio</item>
-        <item>OK - Oklahoma</item>
-        <item>OR - Oregon</item>
-        <item>PA - Pennsylvania</item>
-        <item>RI - Rhode Island</item>
-        <item>SC - South Carolina</item>
-        <item>TA - </item>
-        <item>VN - </item>
-        <item>WV - West Virginia</item>       
+        <item>Alaska</item>
+        <item>Alabama</item>
+        <item>Arkansas</item>
+        <item>Arizona</item>
+        <item>California</item>
+        <item>Colorado</item>
+        <item>Connecticut</item>
+        <item>District of Columbia</item>
+        <item>Delaware</item>
+        <item>Florida</item>
+        <item>Georgia</item>
+        <item>Hawaii</item>
+        <item>Iowa</item>
+        <item>Idaho</item>
+        <item>Illinois</item>
+        <item>Indiana</item>
+        <item>Kansas</item>
+        <item>Kentucky</item>
+        <item>Louisiana</item>
+        <item>Massachusetts</item>
+        <item>Maryland</item>
+        <item>Maine</item>
+        <item>Michigan</item>
+        <item>Minnesota</item>
+        <item>Missouri</item>
+        <item>Mississippi</item>
+        <item>Montana</item>
+        <item>North Carolina</item>
+        <item>North Dakota</item>
+        <item>Nebraska</item>
+        <item>New Hampshire</item>
+        <item>New Jersey</item>
+        <item>New Mexico</item>
+        <item>Nevada</item>
+        <item>New York</item>
+        <item>Ohio</item>
+        <item>Oklahoma</item>
+        <item>Oregon</item>
+        <item>Pennsylvania</item>
+        <item>Rhode Island</item>
+        <item>South Carolina</item>
+        <item>Texas</item>
+        <item>West Virginia</item>       
     </string-array>
     
     
